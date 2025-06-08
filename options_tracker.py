@@ -16,7 +16,7 @@ initial_data = [
         "DTE": 17,
         "Breakeven": 362,
         "Convex Zone": "< 390",
-        "Status": "Active"~
+        "Status": "Active"
     },
     {
         "id": str(uuid.uuid4()),
